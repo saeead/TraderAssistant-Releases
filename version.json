@@ -1,9 +1,9 @@
 {
-  "versionCode": 161,
+  "versionCode": 162,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/saeead/TraderAssistant-Releases/releases/download/v1.0.0+161/TraderAssistant.apk",
+  "apkUrl": "https://github.com/saeead/TraderAssistant-Releases/releases/download/v1.0.0+162/TraderAssistant.apk",
   "sizeBytes": 26965956,
-  "sha256": "3c266766db5c64839b4ca27ddff074f097672d8f8cba5cd4575091372eb90b28",
-  "notes": "Preview build v1.0.0+161",
-  "publishedAt": "2026-11-08T07:40:46Z"
+  "sha256": "8ff33ac13bc3611448ba551afec5329ece159a7a8ed52085bb38a8e52a346fdb",
+  "notes": "Preview build v1.0.0+162",
+  "publishedAt": "2026-11-14T07:44:27Z"
 }
